@@ -1,6 +1,6 @@
 # My Code here....
 
-def map_to_nagativize(source_array) 
+def map_to_negativize(source_array) 
   i = 0
   result = []
   while i < source_array.length do 
