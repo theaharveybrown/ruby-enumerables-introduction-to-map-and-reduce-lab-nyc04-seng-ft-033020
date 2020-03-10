@@ -28,4 +28,4 @@ def map_to_double
     i += 1 
   end 
   result
-end 
+end
