@@ -19,3 +19,13 @@ def map_to_no_change(source_array)
   end 
   result
 end 
+
+def map_to_double 
+  i = 0
+  result = []
+  while i < source_array.length do 
+    result << source_array[i] * 2
+    i += 1 
+  end 
+  result
+end 
